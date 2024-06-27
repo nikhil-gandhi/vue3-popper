@@ -25,6 +25,7 @@
   "files": [
     "dist/*",
     "src/**/*.vue",
+    "src/composables/*.js",
     "index.d.ts"
   ],
   "sideEffects": false,
